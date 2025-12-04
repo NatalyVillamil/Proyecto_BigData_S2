@@ -10,7 +10,7 @@ from Helpers import Funciones
 class WebScraping:
     """Clase para realizar web scraping y extracción de enlaces"""
     
-    def __init__(self, dominio_base: str = "https://www.minsalud.gov.co/Normativa/"):
+    def __init__(self, dominio_base: str = "https://www.minsalud.gov.co/salud/publica/epidemiologia/"):
         """
         Inicializa la clase WebScraping
         

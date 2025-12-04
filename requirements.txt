@@ -1,4 +1,4 @@
-Flask 
+Flask==3.0.3
 gunicorn
 pymongo
 python-dotenv
@@ -18,4 +18,4 @@ PyPDF2
 pytesseract
 pdf2image
 Pillow
-werkzeug
+werkzeug==3.1.3
